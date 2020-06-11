@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73c91363-c76a-4975-b619-f3954c131e27" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bufYCPuSmcNvHnEMKiHXrp0POp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Binary">
+    <configuration name="Binary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Binary" />
+      <module name="ChapterFour" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factorial" />
+      <module name="ChapterFour" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Interest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Student.Interest" />
+      <module name="ChapterFour" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LargestNumber" />
+      <module name="ChapterFour" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Loops" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops" />
+      <module name="ChapterFour" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Loops2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Student.Loops2" />
+      <module name="ChapterFour" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Binary" />
+        <item itemvalue="Application.Interest" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.LargestNumber" />
+        <item itemvalue="Application.Loops2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73c91363-c76a-4975-b619-f3954c131e27" name="Default Changelist" comment="" />
+      <created>1589486944329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589486944329</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="22" key="#Project_Structure" timestamp="1589487034949">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1589487034949" />
+    <state width="1321" height="290" key="GridCell.Tab.0.bottom" timestamp="1590011541790">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="290" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590011541790" />
+    <state width="1321" height="290" key="GridCell.Tab.0.center" timestamp="1590011541790">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="290" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590011541790" />
+    <state width="1321" height="290" key="GridCell.Tab.0.left" timestamp="1590011541790">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="290" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590011541790" />
+    <state width="1321" height="290" key="GridCell.Tab.0.right" timestamp="1590011541790">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="290" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590011541790" />
+    <state x="616" y="168" key="run.anything.popup" timestamp="1589774382230">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="616" y="168" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1589774382230" />
+    <state x="623" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589654106957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="623" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589654106957" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Binary.java</url>
+          <line>4</line>
+          <properties class="Binary" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ChapterFour$LargestNumber.ic" NAME="LargestNumber Coverage Results" MODIFIED="1589820121647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ChapterFour$Factorial.ic" NAME="Factorial Coverage Results" MODIFIED="1589790715193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

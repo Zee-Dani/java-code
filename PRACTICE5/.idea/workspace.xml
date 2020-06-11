@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="998d0adf-3320-4f7b-8e85-64674348ca41" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WhfqnX3uGC81SDqI5t20fLsddJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.Array3">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercisenNonso.Array" />
+      <module name="PRACTICE5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercisenNonso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercisenNonso.Array2" />
+      <module name="PRACTICE5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercisenNonso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercisenNonso.Array3" />
+      <module name="PRACTICE5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercisenNonso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ass3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ass3" />
+      <module name="PRACTICE5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercisenNonso.TimeTable" />
+      <module name="PRACTICE5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercisenNonso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Array3" />
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.Array2" />
+        <item itemvalue="Application.TimeTable" />
+        <item itemvalue="Application.Ass3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="998d0adf-3320-4f7b-8e85-64674348ca41" name="Default Changelist" comment="" />
+      <created>1579606940386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579606940386</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="22" key="#Project_Structure" timestamp="1580574523488">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1580574523488" />
+    <state x="136" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579617053177">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="136" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1579617053177" />
+    <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1580574064857">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580574064857" />
+    <state width="1321" height="176" key="GridCell.Tab.0.bottom" timestamp="1582314817271">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582314817271" />
+    <state width="1321" height="176" key="GridCell.Tab.0.center" timestamp="1582314817271">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582314817271" />
+    <state width="1321" height="176" key="GridCell.Tab.0.left" timestamp="1582314817271">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582314817271" />
+    <state width="1321" height="176" key="GridCell.Tab.0.right" timestamp="1582314817271">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582314817271" />
+    <state x="183" y="6" key="SettingsEditor" timestamp="1579608116480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="183" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579608116480" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1580203889433">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580203889433" />
+    <state x="64" y="0" key="new project wizard" timestamp="1582572469500">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="64" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1582572469500" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580574358071">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580574358071" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Forexercise.java</url>
+          <line>1</line>
+          <properties class="Forexercise" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+package exercisenNonso;
+
+public class Break {
+    public static void main (String... args){
+        int firstNumber = 1;
+        int secondNumber = 2;
+        int counter = 0;
+        while (counter <= 20){
+            int sum = firstNumber + secondNumber ;
+            int bigSum = sum + 6;
+            System.out.printf("%d " ,bigSum);
+            if (bigSum == 21) {
+                break;
+            }
+            else {
+                firstNumber = firstNumber + 1;
+                secondNumber = secondNumber + 1;
+            }
+                    counter++;
+
+            }
+
+    }
+}
